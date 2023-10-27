@@ -10,6 +10,7 @@ The Text File Splitter is a Python script that allows users to split large text 
 - Specify the maximum file size in megabytes for the split parts.
 - Maintain the integrity of lines in the original text file.
 - Display a progress bar during the splitting process.
+- Sometimes may exceed the file limit you set to not split in between lines
 
 ## Getting Started
 
