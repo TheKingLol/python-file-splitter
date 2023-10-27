@@ -41,15 +41,8 @@ The Text File Splitter is a Python script that allows users to split large text 
 
 Here's an example of the script in action
 
-```$ python split_text_file.py
+```
+python split_text_file.py
 Enter the path of the input file: large_data.txt
 Enter the maximum file size (in MB): 10
-```
-
-### Licence
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Acknowledgments
-
-The script uses the tqdm library for displaying a progress bar.
+`
