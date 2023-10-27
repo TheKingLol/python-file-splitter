@@ -23,12 +23,12 @@ The Text File Splitter is a Python script that allows users to split large text 
 
 2. Install the required packages
 
-    ```pip install -r requirements.txt`
+    ```pip install -r requirements.txt```
 
 ### Usage
 1. Run the script from the command line:
 
-    ```python3 main.py`
+    ```python3 main.py```
     
 2. Follow the on-screen prompts:
 
@@ -41,7 +41,8 @@ The Text File Splitter is a Python script that allows users to split large text 
 
 Here's an example of the script in action
 
-```$ python split_text_file.py
+```
+$ python split_text_file.py
 Enter the path of the input file: large_data.txt
 Enter the maximum file size (in MB): 10
 ```
